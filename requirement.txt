@@ -1,0 +1,2 @@
+openai
+python-dotenv   # optional, if you want .env support
